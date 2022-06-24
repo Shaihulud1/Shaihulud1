@@ -1,4 +1,4 @@
-### <h1>Hi there &#128406;, I'am Ilia a WEB from Samara </h1>
+### <h1>Hi there &#128406;, I'am Ilia a WEB developer </h1>
 
 
 ### <h2>My Skills:</h2>
